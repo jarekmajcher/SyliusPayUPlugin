@@ -15,7 +15,7 @@
     ],
     "require": {
         "php": "^8.0",
-        "sylius/sylius": "~1.11.0 || ~1.12.0",
+        "sylius/sylius": "~1.11.0 || ~1.12.0 || ~1.13.0",
         "openpayu/openpayu": "^2.2",
         "php-http/message-factory": "^1.1"
     },
